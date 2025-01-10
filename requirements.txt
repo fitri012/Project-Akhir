@@ -1,0 +1,9 @@
+numpy==1.26.1
+pandas==2.1.1
+streamlit
+scikit-learn
+matplotlib
+scipy
+mlxtend
+seaborn
+pip==24.0
