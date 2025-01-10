@@ -4,6 +4,6 @@ streamlit
 scikit-learn
 matplotlib
 scipy
-mlxtend
+mlxtend==0.2.0
 seaborn
 pip==24.0
