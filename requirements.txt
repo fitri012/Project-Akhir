@@ -1,0 +1,8 @@
+numpy==1.26.1
+pandas==2.1.1
+streamlit
+scikit-learn
+matplotlib
+scipy
+pip==24.0
+echo -e "streamlit\nnumpy\nscikit-learn\nmatplotlib\npandas" > requirements.txt
